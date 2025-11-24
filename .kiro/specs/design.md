@@ -100,7 +100,7 @@ See: `../steering/test_driven_design.md`
 ## File Structure
 
 ```
-subgems/active_data_flow-connector-sink-active_record/
+submodules/active_data_flow-connector-sink-active_record/
 ├── lib/
 │   └── active_data_flow/
 │       └── connector/
