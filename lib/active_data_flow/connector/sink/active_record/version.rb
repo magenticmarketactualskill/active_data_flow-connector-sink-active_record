@@ -4,7 +4,7 @@ module ActiveDataFlow
   module Connector
     module Sink
       module ActiveRecord
-        VERSION = "0.1.19"
+        VERSION = "0.1.20"
       end
     end
   end
